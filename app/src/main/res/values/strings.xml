@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="nameOfAction">Проверка инсоляции</string>
+    <string name="north">северная зона \n севернее 58° с.ш.</string>
+    <string name="middle">центральная зона \n 58° с.ш. - 48° с.ш.</string>
+    <string name="south">южная зона \n южнее 48° с.ш.</string>
+    <string name="nameOfAct">СанПиН 1.2.3685-21</string>
+</resources>
